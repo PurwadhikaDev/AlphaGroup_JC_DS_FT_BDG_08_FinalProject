@@ -12,6 +12,12 @@
 - Tableau Dashboard : [Link](https://public.tableau.com/app/profile/naufal.revanda/viz/dashboard_finpro_Alpha/Dashboard1?publish=yes)
 - Streamlit App : [Link](https://olist-churn-predictor.streamlit.app/)
 
+Because of large amount of RAW, Combined and Cleaned Data, we have uploaded in our [Google Drive](https://drive.google.com/drive/folders/1-KZHS5CU97rH0YFBFFCmki_QEXLeH4j1)
+- Brazilian Ecommerce Cleaned.csv [Link](https://drive.google.com/file/d/1rndk5XHbIXqmyiEy7bPjKEQcRsHzO9Fu/view?usp=sharing)
+- Brazilian Ecommerce Combined.csv [Link](https://drive.google.com/file/d/1TVZ6UJtvWvqpjaHvt5mSro-K-aKez8z2/view?usp=drive_link)
+- Brazilian E-Commerce Dataset (RAW).zip [Link](https://drive.google.com/file/d/1HKYXDyPFSfqscUTeDXYIhgXZIa2tMmEZ/view?usp=sharing)
+- Churn Data.csv [Link](https://drive.google.com/file/d/1r0wzXkeeWHkGViNyU1fpOaWTMpUjwuBc/view?usp=drive_link)
+
 ## 1. Project Overview
 
 Olist is a Brazilian e-commerce enablement platform that connects small and medium-sized sellers with major online marketplaces. Since Olist’s primary revenue comes from seller subscription fees and sales commissions, **seller retention becomes a critical business priority**.
@@ -89,8 +95,6 @@ After data cleaning and merging, the dataset is transformed into a **seller-leve
 ```bash
 📁 olist-seller-churn/
 ├── 📂 dataset/
-│   ├── Brazilian Ecommerce Cleaned.csv
-│   ├── Brazilian Ecommerce Combined.csv
 │   ├── Churn Data.csv
 ├── 📂 streamlit/
 │   ├── app.py
