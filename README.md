@@ -10,6 +10,7 @@
 
 ### Link
 - Tableau Dashboard : [Link](https://public.tableau.com/app/profile/naufal.revanda/viz/dashboard_finpro_Alpha/Dashboard1?publish=yes)
+- Streamlit App : [Link](https://olist-churn-predictor.streamlit.app/)
 
 ## 1. Project Overview
 
@@ -98,14 +99,19 @@ After data cleaning and merging, the dataset is transformed into a **seller-leve
 ├── 📓 Olist Seller Churn Notebook.ipynb
 ├── 📝 README.md
 ├── 📦 paramsxgb.hyp
+```
+
+Dashboard Screenshots
+<img width="1182" height="815" alt="dashboard1" src="https://github.com/user-attachments/assets/7b6161eb-0f75-49f5-9dd2-ff90e3fd8941" />
+
+Streamlit App Screenshots
+<img width="1917" height="912" alt="streamlit1" src="https://github.com/user-attachments/assets/ab610f7d-d31b-461f-9ecd-48d3407b74a8" />
 
 ### Deliverables
 
 * Machine Learning Notebook (EDA + Feature Engineering + Modeling)
 * Trained Seller Churn Prediction Model
 * Business Insight & Recommendation Report
-
----
 
 ## 5. Summary of Findings
 
